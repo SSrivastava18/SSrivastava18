@@ -26,9 +26,9 @@
 ## 📌 Featured Projects
 
 🔹 **StayStory**
-→ Travel & stay booking platform
-→ Modern UI with interactive design
-→ Tech: React, Node.js, MongoDB
+→ Platform to share your stay story.
+→ Modern UI with interactive design.
+→ Tech: React, Node.js, Express.js, MongoDB
 
 🔹 **LokAwaaz**
 → Public complaint & awareness platform
@@ -51,19 +51,12 @@
 
 ---
 
-## 🧠 Achievements
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=SSrivastava18&theme=radical&no-frame=true&margin-w=10"/>
-</p>
-
----
 
 ## 🌐 Connect With Me
 
-📧 Email: [your-email@gmail.com](mailto:your-email@gmail.com)
-💼 LinkedIn: https://linkedin.com/in/your-link
-🐦 Twitter: https://twitter.com/Saurabh21937494
+📧 Email: saurabh18srivastava1@gmail.com
+💼 LinkedIn: https://www.linkedin.com/in/saurabh-srivastava-5594862b8/
+🐦 Twitter: https://x.com/Saurabh21937494
 
 ---
 
