@@ -8,10 +8,10 @@
 
 ## 🚀 About Me
 
-💻 Aspiring Backend Developer
+💻 Aspiring MERN stack Developer
 🌱 Currently learning scalable system design
 ⚡ Passionate about building real-world applications
-🎯 Goal: Crack top tech internships
+🎯 Goal: To solve realworld problems.
 
 ---
 
