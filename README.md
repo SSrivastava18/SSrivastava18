@@ -1,13 +1,6 @@
-<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Saurabh%20Srivastava&fontSize=52&fontColor=00F7FF&animation=fadeIn&fontAlignY=38&desc=MERN%20Stack%20Developer%20%7C%20Builder%20of%20Things&descAlignY=60&descSize=18&descColor=AAAAFF" width="100%"/>
 
-```
-  ███████╗ █████╗ ██╗   ██╗██████╗  █████╗ ██████╗ ██╗  ██╗
-  ██╔════╝██╔══██╗██║   ██║██╔══██╗██╔══██╗██╔══██╗██║  ██║
-  ███████╗███████║██║   ██║██████╔╝███████║██████╔╝███████║
-  ╚════██║██╔══██║██║   ██║██╔══██╗██╔══██║██╔══██╗██╔══██║
-  ███████║██║  ██║╚██████╔╝██║  ██║██║  ██║██████╔╝██║  ██║
-  ╚══════╝╚═╝  ╚═╝ ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚═════╝ ╚═╝  ╚═╝
-```
+<div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=560&lines=MERN+Stack+Developer;I+turn+ideas+into+working+products;JavaScript+%7C+React+%7C+Node.js+%7C+MongoDB;Currently+deep+in+system+design+%F0%9F%94%A5" />
 
@@ -106,3 +99,5 @@ Currently designing something around system design concepts in practice. Stay tu
 *`> Code. Ship. Break things. Fix them. Repeat.`*
 
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" width="100%"/>
