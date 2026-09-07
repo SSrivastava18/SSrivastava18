@@ -16,7 +16,7 @@
 ## `whoami`
 
 ```js
-const saurabh = {
+const saurabh Srivastava = {
   stack      : ["MongoDB", "Express.js", "React", "Node.js"],
   currently  : "Deep-diving into system design",
   builds     : "platforms that solve problems people actually have",
